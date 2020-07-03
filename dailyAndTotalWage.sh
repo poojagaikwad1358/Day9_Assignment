@@ -40,3 +40,4 @@ done
 
 totalSalary="$( calculateDailyWage $totalempHrs )"
 echo "Daily Wage: " ${empDailyWage[@]}
+echo "Total wage: " $totalSalary
